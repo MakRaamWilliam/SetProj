@@ -7,6 +7,7 @@ using namespace std;
 int iSize = 0, iSub = 0, iEsize = 0;
 bool arr[100][100];
 
+
   void   intersection(int firstSet,int secSet,string sUniversal []){
    cout<<"<";
     for(int i=0;i<iSize;i++)
