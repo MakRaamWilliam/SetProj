@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570057375 source:c:\users\makram99\desktop\setproj\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<vector>
+
